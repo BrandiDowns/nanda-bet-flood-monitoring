@@ -1,3 +1,6 @@
+![nanda bet region](https://github.com/BrandiDowns/nanda-bet-flood-monitoring/blob/main/pics/gujarat_s2_cloudless_2021_small.png "Study Extent in India")
+
+
 # Flood Monitoring in Nanda Bet
 
 A series of Python scripts and Jupyter notebooks to monitor flooding using Sentinel-1 and CYGNSS in the Little Rann of Kachchh (LRK), Gujarat, India, centered on the small island of Nanda Bet. 
@@ -8,6 +11,11 @@ Nanda Bet is one of 74 islands in the saline mudflats of LRK. During monsoon sea
 
 These scripts use Sentinel-1 and CYGNSS to observe changes in surface water extent in and around Nanda Bet, but can be adapted for any region by modifying the region of interest (roi) parameters, date ranges, and optimizing thresholds for local soil types, vegetation, etc.
 
+![sentinel-1 gif](https://github.com/BrandiDowns/nanda-bet-flood-monitoring/blob/main/pics/s1_vv_20200101_20201231_annotated.gif "Sentinel-1 VV over Nanda Bet")
+
+
+
+<img src="https://github.com/BrandiDowns/nanda-bet-flood-monitoring/blob/main/pics/gpm_mean_monthly_total_accum_precip_2020.png" width="750">
 
 ## Installation
 
