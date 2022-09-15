@@ -4,7 +4,7 @@ A series of Python scripts and Jupyter notebooks to monitor flooding using Senti
 
 
 ## About the Nanda Bet Flood Monitoring Project
-Nanda Bet is one of 74 islands in the saline mudflats of LRK. During monsoon season, the regions fills with water and becomes a wetland; thus the LRK has the unique propoerty of being both a saline desert and a wetland ecosystem, depending on the time of year. Out of four largest bets (islands) in the LRK, Nanda Bet has the highest faunal species diversity and the highest habitat diversity [[1]](#1).
+Nanda Bet is one of 74 islands in the saline mudflats of LRK. During monsoon season, the region fills with water and becomes a wetland. Thus the LRK has the unique propoerty of being both a saline desert and a wetland ecosystem, depending on the time of year. Out of the four largest bets, or islands, in the LRK, Nanda Bet has the highest faunal species diversity and the highest habitat diversity [[1]](#1).
 
 These scripts use Sentinel-1 and CYGNSS to observe changes in surface water extent in and around Nanda Bet, but can be adapted for any region by modifying the region of interest (roi) parameters, date ranges, and optimizing thresholds for local soil types, vegetation, etc.
 
